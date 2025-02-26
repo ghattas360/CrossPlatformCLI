@@ -60,4 +60,4 @@ User authentication & role-based access
 Cloud integration (e.g., AWS, Azure)
 📌 Feel free to contribute and enhance this CLI! 🚀🔥
 
-👉 GitHub:
+👉 GitHub: https://github.com/ghattas360/CrossPlatformCLI.git
