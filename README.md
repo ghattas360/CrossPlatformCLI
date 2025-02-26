@@ -1,5 +1,5 @@
 # CrossPlatformCLI
-Custom Command Line Interface (CLI) for IT &amp; System Engineers 🚀
+Custom Command Line Interface (CLI) for IT & System Engineers 🚀
 This is a modular and extensible command-line tool designed for IT professionals and system engineers. 
 It allows you to execute useful system commands on both Windows and Linux, 
 such as checking disk space, retrieving IP information, listing running processes, and more...
@@ -24,10 +24,11 @@ network_status → Show active network connections
 
 🚀 How to Use
 1️⃣ Clone the repo:
-      git clone https://github.com/ghattas360/CrossPlatformCLI.git cd mycli
-      cd mycli
+      git clone https://github.com/ghattas360/CrossPlatformCLI.git
+      cd CrossPlatformCLI
 
 2️⃣ Install dependencies:
+      python generate_requirements.py
       pip install -r requirements.txt
 
 3️⃣ Run the CLI:
